@@ -1,4 +1,4 @@
-#define SECRET_SSID "Beach";
-#define SECRET_PASS "KatenMuis";
-#define SECRET_CH_ID 1027650
-#define SECRET_WRITE_APIKEY "SOM65NZDOCE8P6LX"
+#define SECRET_SSID "some SSID";
+#define SECRET_PASS "Your password";
+#define SECRET_CH_ID number
+#define SECRET_WRITE_APIKEY "some string"
