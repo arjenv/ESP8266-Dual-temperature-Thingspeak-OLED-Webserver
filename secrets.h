@@ -1,0 +1,4 @@
+#define SECRET_SSID "Beach";
+#define SECRET_PASS "KatenMuis";
+#define SECRET_CH_ID 1027650
+#define SECRET_WRITE_APIKEY "SOM65NZDOCE8P6LX"
