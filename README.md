@@ -23,3 +23,4 @@ Updates Thingspeak every 5 minutes.
 
 You will need a thingspeak account with 3 inputs: Sensor1, sensor2 and a digital input.
 
+Application: In my case to measure the data from my forced convection pit. When the temperature is above some 35deg fans wil start to blow and force convection from it. The fans are powered with 5VDC. A digital input on the ESP8266 will register the on/off status of the fans. Hysteresis is some 10-15deg. i.e. When the temperature drops to 20-25 deg the fans will be shut off.
